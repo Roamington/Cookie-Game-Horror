@@ -12,7 +12,7 @@ public class CookieController : MonoBehaviour {
         Cookies = 0;
     }
 
-	public void Controller (int ButtonID)
+    public void Controller (int ButtonID)
     {
         if (ButtonID == 0)
         {
